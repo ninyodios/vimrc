@@ -1,0 +1,14 @@
+# Vim temporary and swap files
+*~
+*.swp
+*.swo
+*.retry
+screenlog.*
+*.pyc
+*.pem
+*.key
+.idea
+/.idea/
+.cache
+bundle/
+autoload/
